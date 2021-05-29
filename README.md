@@ -2,7 +2,7 @@
 
 Hello stranger ,this is my first hexo_blog.
 
-I'm trying to record I learned.
+I'm trying to record what I learned.
 
 Everything is naive now :)
 
