@@ -5,9 +5,9 @@ tags: hexo_tutorial
 
 ## First Hexo
 
-This is my first time to use hexo. I'm trying to record what I did. I will not talk the detail like how to make a template or something. Just talk about install and deploy on gh-pages.
+This is my first time using hexo. I'm trying to record what I did. I will not talk about the details like how to make a template or something. Just talk about installing and deploying on gh-pages.
 
-Here's some website you may need.
+Here's some websites you may need.
 [Hexo's official site](https://hexo.io/docs/writing)
 
 I've already install the [Node.js](https://nodejs.org/en/) and [git](https://git-scm.com/)
@@ -16,17 +16,17 @@ I used **yarn** just like npm but faster (using npm is just do the same things)
 Just like the official tutorial installing, I use
 `npm instal hexo-cli -g`
 (I still didn't understand how to yarn global to command line, so just use npm here)
-Then open the folder with VScode. It may an empty folder now.
-And enter `yarn install` in you termainal.
+Then open the folder with VScode. It may be an empty folder now.
+And enter `yarn install` in your terminal.
 Now, there should be something in this folder.
-Could check the detail of these in the official web if you want.
+Could check the details of these in the official web if you want.
 
-**We still not deploy the blog on gh-pages and this is just like create an app to help you generate the static website.**
+**We still do not deploy the blog on gh-pages and this is just like creating an app to help you generate the static website.**
 
 ## Let's deploy to the gh-pages
 
 Use the [One-Command Deployment](https://hexo.io/docs/one-command-deployment)
-I spent much time to try to know the official deployment, but I couldn't understand. So why not use this convenient tool.
+I spent a lot of time trying to know the official deployment, but I couldn't understand. So why not use this convenient tool?
 
 First install the [hexo-deployer-git](https://classic.yarnpkg.com/en/package/hexo-deployer-git).
 `npm install hexo-deployer-git`

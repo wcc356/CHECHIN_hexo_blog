@@ -4,16 +4,16 @@
 
 # Site
 title: CHECHIN
-subtitle: 'bocklog'
+subtitle: 'backlog'
 description: ''
 keywords:
 author: CHECHIN
 language: en
-timezone: ''
+timezone: 'TW'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://wcc356.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
