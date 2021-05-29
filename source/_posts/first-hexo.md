@@ -4,8 +4,6 @@ date: 2021-05-27 23:26:43
 tags: hexo_tutorial
 ---
 
-## First Hexo
-
 This is my first time using hexo. I'm trying to record what I did. I will not talk about the details like how to make a template or something. Just talk about installing and deploying on gh-pages.
 
 Here's some websites you may need.
@@ -78,6 +76,8 @@ Finally, check your website on your github-pages. Sometimes it may take several 
 Just use the generate and deploy every time you update the new post or change the template, or more complicated things I still don't know.
 
 ---
+
+The first version [site](https://wcc356.github.io/) will no update, but I will not delete it as a experience.
 
 2021.5.29 update
 Finally, I know what the official website text means.
