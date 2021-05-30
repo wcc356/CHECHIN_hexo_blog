@@ -6,4 +6,4 @@ I'm trying to record what I learned.
 
 Everything is naive now :)
 
-the [blog site](https://wcc356.github.io/CHECHIN_hexo_blog/)
+the [blog site](https://wcc356.github.io/)
