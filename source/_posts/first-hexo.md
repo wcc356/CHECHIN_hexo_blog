@@ -141,7 +141,7 @@ The only two variable you need to change is
 on:
   push:
     branches:
-      - source  # default branch
+      - main
 ```
 
 2. publish_branch is your deploy branch.
@@ -151,7 +151,7 @@ on:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          publish_branch: master  # deploying branch
+          publish_branch: gh-pages
 ```
 
 Long story short, the one command deployed is just for someone who doesn't want to other's read his hexo files(like templates or something).
