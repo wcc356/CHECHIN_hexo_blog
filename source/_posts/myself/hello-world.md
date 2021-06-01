@@ -1,6 +1,6 @@
 ---
 title: Hello World, I'm chechin
-tags: introduce_myself
+tags: myself
 ---
 
 ### About me
